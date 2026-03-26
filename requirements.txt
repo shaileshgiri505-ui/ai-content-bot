@@ -1,0 +1,7 @@
+python-telegram-bot==20.3
+gtts
+edge-tts
+ffmpeg-python
+moviepy
+schedule
+pydub
